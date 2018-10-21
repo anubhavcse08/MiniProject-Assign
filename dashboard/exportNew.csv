@@ -1,0 +1,51 @@
+Formatted ID,Name,Schedule State,Plan Estimate,Task Estimate Total,Task Actual Total,Task Remaining Total,Owner,Tags,Ready
+US20328,"(gift subs) create unique """"shipping"""" section for MLI: all geos",Defined,3,0,0,0,Prabakaran Santhanam (psanthanam),Altimetrik,FALSE
+US26152,(traits) update behavior tracking to support Traits Upsell and Traits Kit purchases on MLI flow 3,Defined,3,0,0,0,Vikneshwar Loganathan (vloganathan),Altimetrik,FALSE
+US27274,(rts) FT addon behavior tracking optimizations,Defined,0.5,0,0,0,Serge Tarkovski (starkovski),,FALSE
+DE7431,[High MLI FT] User is landing back to payment page when PayPal is used as payment method when only FT is bought through MLI,Defined,0.5,0,0,0,Prabakaran Santhanam (psanthanam),Altimetrik;HOTFIX ROLL,FALSE
+US29089,"(rts) Update to latest PayPal CTA for """"Billing and Address"""" section of purchase flow for MLI and Express",Defined,0.5,0,0,0,Ganesh Moorthy Shanmugam (gshanmugam),Altimetrik,FALSE
+DE7827,[MLI] FT recommendation is not showing in RFY when user removes HO,Defined,0.5,0,0,0,Sergii Zholudev (szholudev),,FALSE
+US29415,(rts) Fix Payment Step of MLI Flow,Defined,0.5,0,0,0,Vikneshwar Loganathan (vloganathan),Altimetrik,FALSE
+US30120,(rts) Update default ELB health check to something meaningful,Defined,1,0,0,0,Vikneshwar Loganathan (vloganathan),Altimetrik,FALSE
+US9979,(gifting) address defects for redemption flow discovered in UI E2E testingde2372,In-Progress,0.5,0,0,0,,,FALSE
+US19969,(traits) Implement unified shipping across DNA types in MLI flow,In-Progress,3,0,0,0,Oleksandr Sazonov (osazonov),,FALSE
+US19970,(traits) Build logic to allow multiple types of DNA kits in MLI flow,In-Progress,2,0,0,0,Prabakaran Santhanam (psanthanam),Altimetrik,TRUE
+US20397,(gifting) rosetta integration with MLI and Redemption,In-Progress,5,3,0,0,Sureshkumar Natarajan (snatarajan),Altimetrik,FALSE
+US20409,(holidays) integrate with new PayPal setup to allow for delay processing,In-Progress,1,0,0,0,Praveen Sengodan (psengodan),Altimetrik,FALSE
+DE5472,[High][L1][Express DE] Payment details are not saved for returning users,In-Progress,0.5,0,0,0,Sureshkumar Natarajan (snatarajan),Altimetrik;Caught Through _Automation,FALSE
+DE7019,[MLI][Confirmation Page] Text in CTA buttons in third card is showing in two rows,In-Progress,0.5,0,0,0,Sergii Zholudev (szholudev),,FALSE
+US27591,(rts) Tracking requests not sending,In-Progress,2,0,0,0,Serge Tarkovski (starkovski),,FALSE
+DE7260,(rts) Tracking request not firing eVar85 correctly,In-Progress,0.5,0,0,0,Serge Tarkovski (starkovski),,TRUE
+DE7897,[Redeem] [Non US] Price of the membership is not shown,In-Progress,0.5,0,0,0,Praveen Sengodan (psengodan),Altimetrik;Caught Through _Automation,TRUE
+US29714,(rts) Confirmation Page Redirect Tealium Issue,In-Progress,1,0,0,0,Praveen Sengodan (psengodan),Altimetrik,FALSE
+DE8027,[Express]Silhouette is missing for new user,In-Progress,0.5,0,0,0,Ganesh Moorthy Shanmugam (gshanmugam),Altimetrik,FALSE
+DE8146,[MLI]'Change to XXX' link is missing after refreshing the page in cart section.,In-Progress,,0,0,0,Oleksandr Sazonov (osazonov),CODE ROLL BLOCKER,FALSE
+DE8317,"[High, Express] Tax tool tip is misaligned in review step",In-Progress,0.5,0,0,0,Oleksandr Sazonov (osazonov),,FALSE
+US31005,(MFA) SPIKE: define implementation for reset password to point to existing experience from the iframe,In-Progress,,0,0,0,Prabakaran Santhanam (psanthanam),Altimetrik,FALSE
+US29862,(holidays) tier 1: pass AddressID to orders to remove wallet dependency,Completed,2,0,0,0,Sureshkumar Natarajan (snatarajan),Altimetrik,FALSE
+US12942,"(mli 2.5) eligibility: """"NotValidForCustomer: AlreadyHadFreeTrial"""" messaging in cart and checkout",Accepted,2,0,0,0,Sureshkumar Natarajan (snatarajan),Altimetrik,FALSE
+US26150,"(traits) Hide """"different country"""" shipping option when traits kit is in purchase flow",Accepted,1,0,0,0,Vikneshwar Loganathan (vloganathan),Altimetrik,FALSE
+DE7153,[MLI] Different country link is not shown in Payment section,Accepted,0.5,0,0,0,Vikneshwar Loganathan (vloganathan),Altimetrik,FALSE
+US27706,(traits) update traits upsell flow with finalized legal language,Accepted,1,0,0,0,Ganesh Moorthy Shanmugam (gshanmugam),Altimetrik,FALSE
+DE7900,[Redeem] 'Header title text' is shown after refreshing the page.,Accepted,0.5,0,0,0,Praveen Sengodan (psengodan),Altimetrik,FALSE
+DE7950,[High]User is unable to receive mail on clicking reset password link,Accepted,0.5,0,0,0,David Kingston (dkingston),Altimetrik;CODE ROLL BLOCKER,FALSE
+DE8001,(High  Express) Renew message miss renew period for new confirmation page,Accepted,0.5,0,0,0,David Kingston (dkingston),Altimetrik,FALSE
+DE8014,[Express][US DNA] 'Close' is missing in “Need to ship to another country?” section,Accepted,0.5,0,0,0,Ganesh Moorthy Shanmugam (gshanmugam),Altimetrik;CODE ROLL BLOCKER,FALSE
+DE8019,[High Express  HO & FT] On clicking TRY ANCESTRYDNA button in confirmation page user is getting logged out and landing in Sign In page,Accepted,0.5,0,0,0,Ganesh Moorthy Shanmugam (gshanmugam),Altimetrik;CODE ROLL BLOCKER;Caught Through _Automation,FALSE
+DE8057,(Trait) Offer is not added to checkout page through the marketing page,Accepted,1,0,0,0,David Kingston (dkingston),Altimetrik;traits oct 15 defect,FALSE
+DE8094,[Traits] Eligibility message UI in checkout page is shown incorrect,Accepted,0.5,0,0,0,Praveen Sengodan (psengodan),Altimetrik,FALSE
+DE8129,(Traits)Wrong offer ID is sent to the catalog (25543),Accepted,0.5,0,0,0,Praveen Sengodan (psengodan),Altimetrik,FALSE
+DE8137,(Traits) offerID is not being recognized/shown in the top card even though it's posted correctly,Accepted,0.5,0,0,0,Praveen Sengodan (psengodan),Altimetrik,FALSE
+DE8138,"(Traits) ELG not being passed correct subjectID information when the associated offerID is """"producttype=traits""""",Accepted,0.5,0,0,0,David Kingston (dkingston),Altimetrik,FALSE
+DE8141,[MLI] Billing section is opened by default in Payments & Address section,Accepted,0.5,0,0,0,Vikneshwar Loganathan (vloganathan),Altimetrik;CODE ROLL BLOCKER,FALSE
+DE8148,[High][MLI] Applied coupon is not showing in cart,Accepted,0.5,0,0,0,Vikneshwar Loganathan (vloganathan),Altimetrik;CODE ROLL BLOCKER,FALSE
+DE8196,TestGUID needs case correct and order of calls being made needs to be updated,Accepted,0.5,0,0,0,Praveen Sengodan (psengodan),Altimetrik,FALSE
+DE8211,[Traits][Flow3] Add ability to remove Item in Flow 3,Accepted,0.5,0,0,0,Prabakaran Santhanam (psanthanam),Altimetrik,FALSE
+DE8239,[MLI] Continuous spinner is observed on clicking Log in button in Sign in section,Accepted,0.5,0,0,0,Sureshkumar Natarajan (snatarajan),Altimetrik;CODE ROLL BLOCKER,FALSE
+DE8245,[MLI] Sporadically continuous spinner observed on submitting registration,Accepted,0.5,0,0,0,Sureshkumar Natarajan (snatarajan),Altimetrik;CODE ROLL BLOCKER,FALSE
+DE8259,(MLI  Cart) Cart Renew Period is not showing correct,Accepted,0.5,0,0,0,David Kingston (dkingston),Altimetrik;CODE ROLL BLOCKER,FALSE
+DE8305,[High Express] Error modal observed on trying to sign in with valid user,Accepted,0.5,0,0,0,Sureshkumar Natarajan (snatarajan),Altimetrik;CODE ROLL BLOCKER;Caught Through _Automation,FALSE
+DE8313,[High  Express] Privacy statement is showing in all FAQs,Accepted,0.5,0,0,0,Vikneshwar Loganathan (vloganathan),Altimetrik;Caught Through _Automation,FALSE
+DE8331,(High  MLI) Recommended for you is showing two time when DNA is recommended only,Accepted,,0,0,0,David Kingston (dkingston),Altimetrik,FALSE
+DE8355,[Traits] “Different Country” link is showing,Accepted,0.5,0,0,0,Vikneshwar Loganathan (vloganathan),Altimetrik,FALSE
+DE8418,[High  Express] Unable to update the DNA quantity in Your Order summary,Accepted,,0,0,0,David Kingston (dkingston),CODE ROLL BLOCKER;Caught Through _Automation,FALSE
